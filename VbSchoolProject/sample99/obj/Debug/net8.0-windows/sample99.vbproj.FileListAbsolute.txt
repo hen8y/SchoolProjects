@@ -1,0 +1,16 @@
+C:\Users\hen8y\source\repos\sample99\bin\Debug\net8.0-windows\sample99.exe
+C:\Users\hen8y\source\repos\sample99\bin\Debug\net8.0-windows\sample99.deps.json
+C:\Users\hen8y\source\repos\sample99\bin\Debug\net8.0-windows\sample99.runtimeconfig.json
+C:\Users\hen8y\source\repos\sample99\bin\Debug\net8.0-windows\sample99.dll
+C:\Users\hen8y\source\repos\sample99\bin\Debug\net8.0-windows\sample99.pdb
+C:\Users\hen8y\source\repos\sample99\obj\Debug\net8.0-windows\sample99.Form1.resources
+C:\Users\hen8y\source\repos\sample99\obj\Debug\net8.0-windows\sample99.vbproj.GenerateResource.cache
+C:\Users\hen8y\source\repos\sample99\obj\Debug\net8.0-windows\sample99.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hen8y\source\repos\sample99\obj\Debug\net8.0-windows\sample99.AssemblyInfoInputs.cache
+C:\Users\hen8y\source\repos\sample99\obj\Debug\net8.0-windows\sample99.AssemblyInfo.vb
+C:\Users\hen8y\source\repos\sample99\obj\Debug\net8.0-windows\sample99.vbproj.CoreCompileInputs.cache
+C:\Users\hen8y\source\repos\sample99\obj\Debug\net8.0-windows\sample99.dll
+C:\Users\hen8y\source\repos\sample99\obj\Debug\net8.0-windows\refint\sample99.dll
+C:\Users\hen8y\source\repos\sample99\obj\Debug\net8.0-windows\sample99.pdb
+C:\Users\hen8y\source\repos\sample99\obj\Debug\net8.0-windows\sample99.genruntimeconfig.cache
+C:\Users\hen8y\source\repos\sample99\obj\Debug\net8.0-windows\ref\sample99.dll
