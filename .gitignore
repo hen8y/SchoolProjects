@@ -1,1 +1,38 @@
+# Visual Studio
+.vs/
+.vscode/
+
+# Build outputs
+bin/
+obj/
+Debug/
+Release/
+
+# User-specific
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# NuGet
+*.nupkg
+*.snupkg
+*.nuget.cache
+packages/
+
+# Logs & temp
+*.log
+*.tmp
+*.temp
+*.bak
+*.old
+
+# macOS
 .DS_Store
+
+# Nested build folders
+**/bin/
+**/obj/
+**/Debug/
+**/Release/
+
